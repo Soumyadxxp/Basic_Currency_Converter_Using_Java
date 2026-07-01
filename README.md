@@ -25,7 +25,7 @@ This Java program performs currency conversion using the Open Exchange Rates API
 
 ### Changing Base Currency
 - By utilizing a purchased API key from Open Exchange Rates, users gain the flexibility to set the base currency as per their requirements.
-- In src/CurrencyConverter.java , cmbbasecurr.disable(); (Line 287) can be changed if API Key is Purchased to get the full experience.
+- In CurrencyConverter.java , cmbbasecurr.disable(); (Line 287) can be changed if API Key is Purchased to get the full experience.
   
 ### Enhanced Customization
 - With a purchased API key, users can adapt the program to work with different base currencies according to their subscription plan on Open Exchange Rates.
